@@ -1,0 +1,11 @@
+-------------------------------------------------------------------------------
+Test set: com.example.springboot.HelloControllerTest
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 8.554 s <<< FAILURE! - in com.example.springboot.HelloControllerTest
+getHello  Time elapsed: 0.655 s  <<< FAILURE!
+java.lang.AssertionError: 
+Response content
+Expected: "Greetings from Spring Boot from VSC! Azure Rocks!"
+     but: was "Greetings from Spring Boot from VSC - 2TDS - Prof Antonio Figueiredo! Azure Rocks!"
+	at com.example.springboot.HelloControllerTest.getHello(HelloControllerTest.java:27)
+

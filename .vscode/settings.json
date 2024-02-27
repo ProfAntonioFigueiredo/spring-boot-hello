@@ -1,0 +1,6 @@
+{
+    "appService.preDeployTask": "package:spring-boot-complete",
+    "appService.deploySubpath": "target\\spring-boot-complete-0.0.1-SNAPSHOT.jar",
+    "appService.defaultWebAppToDeploy": "/subscriptions/6d446799-52c2-4fad-8eef-4f99ee9014c0/resourceGroups/Mywebappaula1401-pf1776/providers/Microsoft.Web/sites/Mywebappaula1401-pf1776",
+    "java.compile.nullAnalysis.mode": "automatic"
+}
